@@ -32,5 +32,14 @@ sudo dnf install xdotool
 - X11 session or wayland
 - vosk sounddevice
 
-## Run
+#usage
+
+1 - run app
+```
 python3 VoiceR.py
+```
+2 - press "set window name"
+
+3- Type the Game's window name (make sure the game is running in window mode)
+
+4 - press "Start listening" and boom you're golden
