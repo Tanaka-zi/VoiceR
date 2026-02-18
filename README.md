@@ -29,7 +29,7 @@ sudo dnf install xdotool
 ## Requirements
 - Python 3
 - xdotool
-- X11 session
+- X11 session or wayland
 - vosk sounddevice
 
 ## Run
