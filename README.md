@@ -34,12 +34,12 @@ sudo dnf install xdotool
 
 ## Usage
 
-1 - run app
+- run app
 ```
 python3 VoiceR.py
 ```
-2 - press "set window name"
+- press "set window name"
 
-3- Type the Game's window name (make sure the game is running in window mode)
+- Type the Game's window name (make sure the game is running in window mode)
 
-4 - press "Start listening" and boom you're golden
+- press "Start listening" and boom you're golden
