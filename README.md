@@ -32,7 +32,7 @@ sudo dnf install xdotool
 - X11 session or wayland
 - vosk sounddevice
 
-##usage
+## Usage
 
 1 - run app
 ```
