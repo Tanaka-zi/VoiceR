@@ -1,15 +1,20 @@
 # VoiceR
 VoiceR is a Linux voice control app that lets you control games using speech commands.
 
-## Setup
+## Setup (Fedora)
 
 Install dependencies:
 
+Install Python 3
+```
+sudo dnf install -y python3 python3-pip
+```
+Install Vosk Sounddevice
 ```
 pip install vosk sounddevice
 ```
 
-Install xdotool (Fedora):
+Install xdotool:
 
 ```
 sudo dnf install xdotool
