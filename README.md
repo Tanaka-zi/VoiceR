@@ -9,7 +9,7 @@ Install dependencies:
 pip install vosk sounddevice
 ```
 
-Install xdotool (Linux):
+Install xdotool (Fedora):
 
 ```
 sudo dnf install xdotool
